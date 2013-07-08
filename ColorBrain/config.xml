@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://www.venturastudios.org/ColorBrain" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="8idLi7dGJG.testApp" package="8idLi7dGJG" required_version="2.1"/>
+    <author email="rafinskipg@monchacos.com">Rafael Pedrola</author>
+    <content src="index.html"/>
+    <icon src="icon.png"/>
+    <name>ColorBrain</name>
+    <tizen:setting screen-orientation="portrait" context-menu="disable" background-support="disable" encryption="disable" install-location="auto"/>
+</widget>
